@@ -1,0 +1,6 @@
+framework module SSQ {
+  umbrella header "SSQ-ZJ-umbrella.h"
+
+  export *
+  module * { export * }
+}

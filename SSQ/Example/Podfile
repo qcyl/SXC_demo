@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SSQ_Example' do
+  pod 'SSQ', :path => '../'
+
+  target 'SSQ_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

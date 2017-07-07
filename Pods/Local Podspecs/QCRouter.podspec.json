@@ -1,0 +1,22 @@
+{
+  "name": "QCRouter",
+  "version": "0.0.2",
+  "summary": "A short description of QCRouter.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "http://git.oschina.net/zykj135/Router",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zykj135": "qichao@cpsino.com"
+  },
+  "source": {
+    "git": "https://git.oschina.net/zykj135/Router.git",
+    "tag": "0.0.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "QCRouter/Classes/**/*"
+}

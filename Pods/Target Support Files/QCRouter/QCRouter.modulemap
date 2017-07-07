@@ -1,0 +1,6 @@
+framework module QCRouter {
+  umbrella header "QCRouter-umbrella.h"
+
+  export *
+  module * { export * }
+}

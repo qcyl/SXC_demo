@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "96AEBA0C4AA1FA45A7725DA0EF8F13503A9D5845",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "CD36B765B8AD329EDBE8152132D3223AC0DC3B66" : 9223372036854775807,
+    "96AEBA0C4AA1FA45A7725DA0EF8F13503A9D5845" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "10E9E22A-0BCC-4CDA-B4B0-3CD43A999FFF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "CD36B765B8AD329EDBE8152132D3223AC0DC3B66" : "..\/..\/iOS\/SpecCode\/QCRouter",
+    "96AEBA0C4AA1FA45A7725DA0EF8F13503A9D5845" : "SXC\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SXC",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SXC.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.oschina.net\/zykj135\/SXC.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "96AEBA0C4AA1FA45A7725DA0EF8F13503A9D5845"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.oschina.net\/zykj135\/Router.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CD36B765B8AD329EDBE8152132D3223AC0DC3B66"
+    }
+  ]
+}

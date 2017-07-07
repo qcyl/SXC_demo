@@ -1,0 +1,32 @@
+PODS:
+  - QCRouter (0.0.1)
+  - SSQ/GX (0.0.1):
+    - QCRouter
+  - SSQ/HLJ (0.0.1):
+    - QCRouter
+  - SSQ/NX (0.0.1):
+    - QCRouter
+  - SSQ/TJ (0.0.1):
+    - QCRouter
+  - SSQ/ZJ (0.0.1):
+    - QCRouter
+
+DEPENDENCIES:
+  - QCRouter
+  - SSQ/GX (from `SSQ`)
+  - SSQ/HLJ (from `SSQ`)
+  - SSQ/NX (from `SSQ`)
+  - SSQ/TJ (from `SSQ`)
+  - SSQ/ZJ (from `SSQ`)
+
+EXTERNAL SOURCES:
+  SSQ:
+    :path: SSQ
+
+SPEC CHECKSUMS:
+  QCRouter: 8a724b292dece1f346097cacb3f42b9cac3a7c8d
+  SSQ: faccfc694a9f68dd0993b1c1b353d2a84413c7b9
+
+PODFILE CHECKSUM: 9cf2cf815cb3bae63d7be28d3762ce88f9a4ac47
+
+COCOAPODS: 1.2.0

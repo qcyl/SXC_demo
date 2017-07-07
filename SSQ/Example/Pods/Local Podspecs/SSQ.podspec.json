@@ -1,0 +1,22 @@
+{
+  "name": "SSQ",
+  "version": "0.1.0",
+  "summary": "A short description of SSQ.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/qi chao/SSQ",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "qi chao": "m17744407674@163.com"
+  },
+  "source": {
+    "git": "https://github.com/qi chao/SSQ.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SSQ/Classes/**/*"
+}

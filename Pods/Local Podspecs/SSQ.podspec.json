@@ -1,0 +1,48 @@
+{
+  "name": "SSQ",
+  "version": "0.0.1",
+  "summary": "A short description of SSQ.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://git.oschina.net/zykj135/SSQ",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "": "qichao@qczyl.club"
+  },
+  "source": {
+    "git": "https://git.oschina.net/zykj135/SSQ.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "dependencies": {
+    "QCRouter": [
+
+    ]
+  },
+  "subspecs": [
+    {
+      "name": "GX",
+      "source_files": "SSQ/Classes/**/*"
+    },
+    {
+      "name": "HLJ",
+      "source_files": "SSQ/Classes/**/*"
+    },
+    {
+      "name": "NX",
+      "source_files": "SSQ/Classes/**/*"
+    },
+    {
+      "name": "TJ",
+      "source_files": "SSQ/Classes/**/*"
+    },
+    {
+      "name": "ZJ",
+      "source_files": "SSQ/Classes/**/*"
+    }
+  ]
+}

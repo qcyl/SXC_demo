@@ -1,0 +1,6 @@
+framework module Pods_SXC_HLJ {
+  umbrella header "Pods-SXC_HLJ-umbrella.h"
+
+  export *
+  module * { export * }
+}
