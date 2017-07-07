@@ -25,8 +25,8 @@ echo -e "================================================\n"
 echo -e "\n"
 getInfomation
 
-git config user.name zykj135
-git config user.mail qichao@cpsino.com
+git config user.name qcyl
+git config user.mail 365034037@qq.com
 git add .
 git commit -m $commite
 git push origin master
